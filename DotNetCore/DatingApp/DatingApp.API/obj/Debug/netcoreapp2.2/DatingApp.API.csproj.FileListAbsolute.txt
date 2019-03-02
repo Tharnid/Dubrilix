@@ -1,0 +1,14 @@
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.deps.json
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.json
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.dev.json
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.dll
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.pdb
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csprojAssemblyReference.cache
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csproj.CoreCompileInputs.cache
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cache
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cs
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfoInputs.cache
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfo.cs
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorTargetAssemblyInfo.cache
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.dll
+/home/elixmysphx/Dubrilix/Dubrilix/DotNetCore/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.pdb
