@@ -30,3 +30,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ALT + O html component
 ALT + U - takes you back to ts file
+
+# Bootstrap and Font Awesome
+npm install bootstrap font-awesome
+
+            "styles": [
+              "src/styles.css"
+            ],
+
+# Styles.css
+
+/* You can add global styles to this file, and also import other style files */
+
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import '../node_modules/font-awesome/css/font-awesome.min.css';
