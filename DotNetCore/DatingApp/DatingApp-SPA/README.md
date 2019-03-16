@@ -30,6 +30,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ALT + O html component
 ALT + U - takes you back to ts file
+dotnet ef migrations add AddedUserEntity
+dotnet ef database update
+
+
 
 # Bootstrap and Font Awesome
 npm install bootstrap font-awesome
