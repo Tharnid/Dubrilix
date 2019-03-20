@@ -22,6 +22,11 @@ namespace DatingApp.API.Controllers
         {
             // validate request
 
+            // if(!ModelState.IsValid)
+            // {
+            //     return BadRequest(ModelState);
+            // }
+
             userForRegisterDto.Username = userForRegisterDto.Username.ToLower();
 
             if (await _repo.UserExists(userForRegisterDto.Username))
