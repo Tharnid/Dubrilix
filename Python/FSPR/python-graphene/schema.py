@@ -43,18 +43,21 @@ class Mutation(graphene.ObjectType):
 
 schema = graphene.Schema(query=Query, mutation=Mutation) # auto_camelcase=False makes snakecase is default
 
+# Int! required Int not
+
 result = schema.execute(
     '''
-    mutation {
-        createUser(username: "Terrell") {
-            user {
-                id 
-                username
-                createdAt
-            }
+    query getUsersQuery($limit: Int)
+    {
+        users (limit: $limit) 
+        {
+            id 
+            username
+            createdAt
         }
     }
-    '''
+    ''',
+    variable_values={'limit': 1}
 )
 
 # print(result.data.items())
