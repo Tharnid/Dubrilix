@@ -8,7 +8,8 @@ class Track(models.Model):
     description = models.TextField(blank=True)
     url = models.URLField()
     created_at = models.DateTimeField(auto_now_add=True)
-    posted_by = models.ForeignKey(get_user_model(), null=True, on_delete=models.CASCADE)
+    posted_by = models.ForeignKey(get_user_model(), 
+    null=True, on_delete=models.CASCADE)
     # cascade delete...user deleted....track deleted too
 
 
