@@ -23,7 +23,7 @@ class Query(graphene.ObjectType):
     def resolve_me(self, info):
         user = info.context.user
         if user.is_anonymous:
-            raise Exception('Not Logged In!!!')
+            raise GraphQLError('Not Logged In!!!')
 
         return user
 
